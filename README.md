@@ -21,6 +21,7 @@ Introduction
 Module 2
 
 Linux Fundamentals
+
 Theory
 •	Overview of Linux
 •	Linux Architecture
@@ -43,6 +44,7 @@ Practical
 Module 3
 
 Python
+
 •	Overview of Python
 •	Features, Benefits, Uses of Python
 •	Installation and Setup of Python Environment
@@ -57,6 +59,7 @@ Python
 Module 4
 
 Git and Github
+
 •	Overview of Version Control System
 •	Central vs Distributed Version Control System
 •	Introduction to Git
@@ -87,6 +90,7 @@ Practical
 Module 5
 
 DevOps on Cloud (AWS)
+
 •	Overview of AWS DevOps and Azure DevOps
 •	Code Build
 •	Code Commit
@@ -132,6 +136,7 @@ Practical
 Module 7
 
 Container Orchestration Tool – Kubernetes
+
 •	Overview of Container Orchestration
 •	Different between Docker swarm and Kubernetes Cluster
 •	Kubernetes Architecture
@@ -157,6 +162,7 @@ Practical
 Module 8
 
 Configuration Automation using Ansible
+
 •	Overview of Configuration Automation
 •	Introduction to Ansible
 •	Ansible Architecture
@@ -177,6 +183,7 @@ Practical
 Module 9
 
 Terraform Overview
+
 •	Terraform Overview
 •	Introduction to Terraform
 •	Terraform Vs Ansible
@@ -211,6 +218,7 @@ Module 10
 Module-11
 
 Continuous Integration Using Jenkins
+
 •	Overview of Continuous Integration
 •	Difference between Continuous vs Traditional Integration
 •	Overview of Jenkins
