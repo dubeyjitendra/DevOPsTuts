@@ -2,22 +2,26 @@
 
 
 DEVOPS Syllabus
-	## Module 1
-		## Introduction
-		•	Introduction to PAAS, IAAS, SAAS (More focus on PAAS and IAAS)
-		•	What is DevOps?
-		•	Why DevOps?
-		•	DevOps Stages
-		•	DevOps Lifecycle
-		•	Various Automation in DevOps
-		•	Whom to learn DevOps?
-		•	What is SDLC Process?
-		•	What is Agile?
-		•	Overview of CICD
+
+Module 1
+
+Introduction
+
+•	Introduction to PAAS, IAAS, SAAS (More focus on PAAS and IAAS)
+•	What is DevOps?
+•	Why DevOps?
+•	DevOps Stages
+•	DevOps Lifecycle
+•	Various Automation in DevOps
+•	Whom to learn DevOps?
+•	What is SDLC Process?
+•	What is Agile?
+•	Overview of CICD
 
 Module 2
+
 Linux Fundamentals
-	Theory
+Theory
 •	Overview of Linux
 •	Linux Architecture
 •	Linux Distributions
@@ -36,11 +40,8 @@ Practical
 •	Writing Shell Scripts Program
 	
 
-
-
-
-
 Module 3
+
 Python
 •	Overview of Python
 •	Features, Benefits, Uses of Python
@@ -54,6 +55,7 @@ Python
 	
 
 Module 4
+
 Git and Github
 •	Overview of Version Control System
 •	Central vs Distributed Version Control System
@@ -83,6 +85,7 @@ Practical
 
 
 Module 5
+
 DevOps on Cloud (AWS)
 •	Overview of AWS DevOps and Azure DevOps
 •	Code Build
@@ -99,7 +102,9 @@ DevOps on Cloud (AWS)
 •	 ELB
 •	Security Groups
 
+
 Module 6
+
 Containerization, Docker, and Docker Hub
 
 •	Introduction to Virtualization and Containerization
@@ -123,7 +128,9 @@ Practical
 •	Running Docker Containers,
 •	Container Port Binding
 
+
 Module 7
+
 Container Orchestration Tool – Kubernetes
 •	Overview of Container Orchestration
 •	Different between Docker swarm and Kubernetes Cluster
@@ -146,7 +153,9 @@ Practical
 •	Kubernetes HostPath Volume
 •	Namespaces
 
+
 Module 8
+
 Configuration Automation using Ansible
 •	Overview of Configuration Automation
 •	Introduction to Ansible
@@ -164,7 +173,9 @@ Practical
 •	Writing Ansible Playbooks to Configure Servers
 •	Creating Ansible Roles
 
+
 Module 9
+
 Terraform Overview
 •	Terraform Overview
 •	Introduction to Terraform
@@ -181,7 +192,9 @@ Practical
 •	Managing AWS resources using terraform
 •	End to End Infrastructure Creation Project
 
+
 Module 10
+
 •	Continuous Monitoring using Prometheus and Grafana
 •	Overview of continuous monitoring
 •	Continuous monitoring tools in DevOps
@@ -194,7 +207,9 @@ Module 10
 •	Monitoring Targets using Prometheus
 •	Visualizing Reports using Grafana
 
+
 Module-11
+
 Continuous Integration Using Jenkins
 •	Overview of Continuous Integration
 •	Difference between Continuous vs Traditional Integration
