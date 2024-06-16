@@ -3,7 +3,7 @@
 
 DEVOPS Syllabus
 
-Module 1
+## Module 1
 
 Introduction
 
@@ -18,7 +18,7 @@ Introduction
 •	What is Agile?
 •	Overview of CICD
 
-Module 2
+## Module 2
 
 Linux Fundamentals
 
@@ -41,7 +41,7 @@ Practical
 •	Writing Shell Scripts Program
 	
 
-Module 3
+## Module 3
 
 Python
 
@@ -56,7 +56,7 @@ Python
 •	Errors and Exception Handling Python Console based application and Web Application using Flask
 	
 
-Module 4
+## Module 4
 
 Git and Github
 
@@ -87,7 +87,7 @@ Practical
 •	Collaborating local and remote repositories
 
 
-Module 5
+## Module 5
 
 DevOps on Cloud (AWS)
 
@@ -107,7 +107,7 @@ DevOps on Cloud (AWS)
 •	Security Groups
 
 
-Module 6
+## Module 6
 
 Containerization, Docker, and Docker Hub
 
@@ -133,7 +133,7 @@ Practical
 •	Container Port Binding
 
 
-Module 7
+## Module 7
 
 Container Orchestration Tool – Kubernetes
 
@@ -159,7 +159,7 @@ Practical
 •	Namespaces
 
 
-Module 8
+## Module 8
 
 Configuration Automation using Ansible
 
@@ -180,7 +180,7 @@ Practical
 •	Creating Ansible Roles
 
 
-Module 9
+## Module 9
 
 Terraform Overview
 
@@ -200,7 +200,7 @@ Practical
 •	End to End Infrastructure Creation Project
 
 
-Module 10
+## Module 10
 
 •	Continuous Monitoring using Prometheus and Grafana
 •	Overview of continuous monitoring
@@ -215,7 +215,7 @@ Module 10
 •	Visualizing Reports using Grafana
 
 
-Module-11
+## Module-11
 
 Continuous Integration Using Jenkins
 
