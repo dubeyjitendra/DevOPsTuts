@@ -2,18 +2,18 @@
 
 
 DEVOPS Syllabus
-	Module 1
-		Introduction
-			•	Introduction to PAAS, IAAS, SAAS (More focus on PAAS and IAAS)
-			•	What is DevOps?
-			•	Why DevOps?
-			•	DevOps Stages
-			•	DevOps Lifecycle
-			•	Various Automation in DevOps
-			•	Whom to learn DevOps?
-			•	What is SDLC Process?
-			•	What is Agile?
-			•	Overview of CICD
+	## Module 1
+		## Introduction
+		•	Introduction to PAAS, IAAS, SAAS (More focus on PAAS and IAAS)
+		•	What is DevOps?
+		•	Why DevOps?
+		•	DevOps Stages
+		•	DevOps Lifecycle
+		•	Various Automation in DevOps
+		•	Whom to learn DevOps?
+		•	What is SDLC Process?
+		•	What is Agile?
+		•	Overview of CICD
 
 Module 2
 Linux Fundamentals
